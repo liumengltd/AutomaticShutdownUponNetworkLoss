@@ -59,4 +59,4 @@ LiuMengAutoPowerOffAfterOffline.exe -i 5 -t
 
 ## 授权协议
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+本仓库采用的是Apache License 2.0协议，详情请看[LICENSE](LICENSE)文件。
